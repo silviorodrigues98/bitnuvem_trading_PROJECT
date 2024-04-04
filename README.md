@@ -4,8 +4,8 @@ Este README irá guiá-lo passo a passo na instalação das dependências, confi
 
 ## **Disclaimer**
 
-*O projeto é não oficial, usado por mim, para automatizar minhas compras de BTC, e foi compartilhado para poder ajudar.
-**Use por sua própria conta a risco.****
+
+**O projeto é não oficial, use por sua própria conta a risco.**
   
 
 ## **Requisitos:**
@@ -42,7 +42,7 @@ Insira as seguintes informações no arquivo .env, usando o editor de texto de s
 
 Execute o seguinte comando para iniciar o bot, no seu terminal (cmd ou bash):
 
-    npm run
+    npm run start
     
 
 ## **Passo 5: Analisar o retorno**
