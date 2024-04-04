@@ -8,7 +8,7 @@ const apiSecret = process.env.API_SECRET;
 const action = "order_new";
 const mode = "market";
 const type = "buy";
-const amountBRL = 10;
+const amountBRL = process.env.AMOUNT_BRL;
 
 const timestamp = Math.floor(Date.now() / 1000);
 
