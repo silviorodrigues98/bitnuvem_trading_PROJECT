@@ -32,11 +32,7 @@ Instale as dependências usando o seguinte comando:
 
 ## **Passo 3: Configurar as Chaves**
 
-Insira as seguintes informações no arquivo .env, usando o editor de texto de sua preferência:
-
-    API_KEY="SUA_CHAVE_DE_API"
-    API_SECRET="SEU_SEGREDO_DE_API"
-    AMOUNT_BRL=QUANTIDADE EM REAIS
+Altere as seguintes informações no arquivo .env, usando o editor de texto de sua preferência, seguindo o padrão indicado no próprio arquivo.
 
 ## **Passo 4: Rodar o bot**
 
