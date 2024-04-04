@@ -32,7 +32,7 @@ Instale as dependências usando o seguinte comando:
 
 ## **Passo 3: Configurar as Chaves**
 
-Altere as seguintes informações no arquivo .env, usando o editor de texto de sua preferência, seguindo o padrão indicado no próprio arquivo.
+Altere as informações contidas no arquivo .env, usando o editor de texto de sua preferência.
 
 ## **Passo 4: Rodar o bot**
 
