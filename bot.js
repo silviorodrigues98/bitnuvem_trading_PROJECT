@@ -1,7 +1,11 @@
 const CryptoJS = require("crypto-js");
+require("dotenv").config();
 
-const apiKey = "d23f69d156b9034c7318fd66ddc7f26d"; // Replace with your Bitnuvem API key
-const apiSecret = "d6rLI6KxS6g2d2LfXXCUT7nM70VAP3Si"; // Replace with your Bitnuvem API secret
+require("dotenv").config();
+
+// Crate a .env file with the API_KEY and API_SECRET values
+const apiKey = process.env.API_KEY;
+const apiSecret = process.env.API_SECRET;
 
 const action = "order_new";
 const mode = "market";
