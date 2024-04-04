@@ -1,8 +1,6 @@
 const CryptoJS = require("crypto-js");
 require("dotenv").config();
 
-require("dotenv").config();
-
 // Crate a .env file with the API_KEY and API_SECRET values
 const apiKey = process.env.API_KEY;
 const apiSecret = process.env.API_SECRET;
