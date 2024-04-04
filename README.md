@@ -20,7 +20,7 @@ Abra seu terminal e navegue até a pasta onde deseja instalar o bot.
 
 Clone o repositório do bot usando o seguinte comando, no seu terminal (cmd ou bash):
 
-git clone https://github.com/silviorodrigues98/bitnuvem_trading_PROJECT
+    git clone https://github.com/silviorodrigues98/bitnuvem_trading_PROJECT
 
 ## **Passo 2: Instalar as Dependências**
 
